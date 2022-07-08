@@ -1,2 +1,2 @@
 # Moviemate
- A Django restframework based IMDB clone project
+ Moviemate is a Django restframework based IMDB clone project
